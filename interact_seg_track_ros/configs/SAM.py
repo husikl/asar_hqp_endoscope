@@ -1,0 +1,1 @@
+sam_config = ['vit_h', './weights/sam_vit_h_4b8939.pth']
